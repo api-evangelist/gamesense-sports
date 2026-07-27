@@ -1,0 +1,30 @@
+# GameSense Sports
+
+> GameSense Sports manages 3 data types including contact submissions. Helps you organize, track, and share your work in 1 place for teams and solo users.
+
+## Pages
+
+- [Home](https://gamesensesports.com/): Main page
+- [Baseball SRT](https://gamesensesports.com/baseball-srt): Baseball SRT page
+- [Coaches](https://gamesensesports.com/Coaches): Coaches page
+- [Coaches Webinar](https://gamesensesports.com/coaches-webinar-jun26): Coaches Webinar page
+- [Contact](https://gamesensesports.com/Contact): Contact page
+- [FAQ](https://gamesensesports.com/faq): FAQ page
+- [Hitter IQ Challenge](https://gamesensesports.com/hitter-iq-challenge): Hitter IQ Challenge page
+- [How It Works](https://gamesensesports.com/HowItWorks): How It Works page
+- [Mini SRT](https://gamesensesports.com/MiniSRT): Mini SRT page
+- [Mini SRT Admin](https://gamesensesports.com/srt-admin): Mini SRT Admin page
+- [Parents](https://gamesensesports.com/parents): Parents page
+- [Parents Webinar](https://gamesensesports.com/parents-webinar-jun26): Parents Webinar page
+- [Pricing](https://gamesensesports.com/Pricing): Pricing page
+- [Privacy Policy](https://gamesensesports.com/PrivacyPolicy): Privacy Policy page
+- [Skills Camps](https://gamesensesports.com/skillscamps): Skills Camps page
+- [Softball SRT](https://gamesensesports.com/softball-srt): Softball SRT page
+- [SRT](https://gamesensesports.com/srt): SRT page
+- [SRT Information Pro](https://gamesensesports.com/pitch-recognition-test): SRT Information Pro page
+- [SRT Skills Camps](https://gamesensesports.com/pitch-recognition-test-skills-camps): SRT Skills Camps page
+- [Team Facility](https://gamesensesports.com/team-facility): Team Facility page
+- [Terms Of Service](https://gamesensesports.com/TermsOfService): Terms Of Service page
+- [Tournament Orgs](https://gamesensesports.com/tournament-orgs): Tournament Orgs page
+- [Trial](https://gamesensesports.com/trial): Trial page
+- [Trial Signup](https://gamesensesports.com/signup): Trial Signup page

@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: https://gamesensesports.com/.well-known/
+host: https://gamesensesports.com
+documents:
+- path: /.well-known/openid-configuration
+  status: 200
+  file: gamesense-sports-openid-configuration.json
+- path: /.well-known/oauth-authorization-server
+  status: 200
+  file: gamesense-sports-oauth-authorization-server.json
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  The gameSense Sports web app is built on the base44 platform; its published
+  OpenID Connect discovery and OAuth 2.0 Authorization Server Metadata (RFC 8414)
+  documents point at the base44 identity provider (issuer https://app.base44.com).

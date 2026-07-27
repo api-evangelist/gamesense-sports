@@ -1,7 +1,20 @@
 aid: gamesense-sports
 name: gameSense Sports
-description: gameSense Sports is a company surfaced as a portfolio company of techstars and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  gameSense Sports is a Denver, Colorado sports-technology company that builds
+  interactive, HD video-based cognitive training tools for baseball and softball.
+  Its core Skill Recognition Training (SRT) uses the scientifically validated
+  method of visual occlusion to measure and teach pitch recognition, reaction
+  time, and decision-making so athletes learn to "see" plays before they happen.
+  The platform packages this as SRT, Mini SRT, the Hitter IQ Challenge, and Skills
+  Camps, and serves individual athletes, coaches, parents, teams, tournament
+  organizations, and training facilities. gameSense sells subscriptions directly
+  to athletes (B2C) and partners with college programs, professional organizations,
+  and youth-sports groups (B2B). The company was selected for the inaugural
+  Techstars SportsTech Melbourne accelerator. Its web application is built on the
+  base44 platform. It was added to the API Evangelist network as a Techstars
+  portfolio company and enriched by the pipeline; it does not currently publish a
+  public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/gamesense-sports/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +22,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://media.base44.com/images/public/696bcc60463e810ff32f1a93/22af9c05d_FavGS-Logo-01.png/v1/fill/w_1200,h_630/22af9c05d_FavGS-Logo-01.png
 tags:
 - Company
+- Sports
+- SportsTech
+- Baseball
+- Softball
+- Athlete Training
+- Cognitive Training
+- Pitch Recognition
+- Techstars
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +56,26 @@ maintainers:
 common:
 - type: Website
   url: https://gamesensesports.com/
+- type: GettingStarted
+  url: https://gamesensesports.com/HowItWorks
+- type: Pricing
+  url: https://gamesensesports.com/Pricing
+- type: SignUp
+  url: https://gamesensesports.com/signup
+- type: Support
+  url: https://gamesensesports.com/Contact
+- type: TermsOfService
+  url: https://gamesensesports.com/TermsOfService
+- type: PrivacyPolicy
+  url: https://gamesensesports.com/PrivacyPolicy
+- type: WellKnown
+  url: well-known/gamesense-sports-well-known.yml
+- type: LLMsTxt
+  url: llms/gamesense-sports-llms.txt
+- type: DomainSecurity
+  url: security/gamesense-sports-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
